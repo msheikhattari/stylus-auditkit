@@ -1,0 +1,9 @@
+unused dependencies:
+`stylus-sdk v0.5.1 (/Users/msheikhattari/Documents/stylus/stylus-sdk-rs/stylus-sdk)`
+├─── dependencies
+│    └─── "lazy_static"
+└─── dev-dependencies
+     └─── "sha3"
+Note: They might be false-positive.
+      For example, `cargo-udeps` cannot detect usage of crates that are only used in doc-tests.
+      To ignore some dependencies, write `package.metadata.cargo-udeps.ignore` in Cargo.toml.
