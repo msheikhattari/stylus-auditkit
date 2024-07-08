@@ -1,0 +1,36 @@
+Filename                                  Regions    Missed Regions     Cover   Functions  Missed Functions  Executed       Lines      Missed Lines     Cover    Branches   Missed Branches     Cover
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+stylus-proc/src/calls/mod.rs                   69                69     0.00%           2                 2     0.00%         180               180     0.00%           0                 0         -
+stylus-proc/src/lib.rs                          7                 7     0.00%           7                 7     0.00%          21                21     0.00%           0                 0         -
+stylus-proc/src/methods/entrypoint.rs          16                16     0.00%           1                 1     0.00%          78                78     0.00%           0                 0         -
+stylus-proc/src/methods/error.rs               19                19     0.00%           1                 1     0.00%          56                56     0.00%           0                 0         -
+stylus-proc/src/methods/external.rs           202               202     0.00%          12                12     0.00%         347               347     0.00%           0                 0         -
+stylus-proc/src/storage/mod.rs                 82                82     0.00%           4                 4     0.00%         193               193     0.00%           0                 0         -
+stylus-proc/src/storage/proc.rs               186               186     0.00%           9                 9     0.00%         148               148     0.00%           0                 0         -
+stylus-proc/src/types.rs                       47                47     0.00%           6                 6     0.00%          87                87     0.00%           0                 0         -
+stylus-sdk/src/abi/bytes.rs                    12                12     0.00%          12                12     0.00%          36                36     0.00%           0                 0         -
+stylus-sdk/src/abi/const_string.rs             34                17    50.00%          12                 8    33.33%          75                47    37.33%           0                 0         -
+stylus-sdk/src/abi/impls.rs                     4                 1    75.00%           1                 0   100.00%           9                 1    88.89%           0                 0         -
+stylus-sdk/src/abi/internal.rs                 17                16     5.88%           6                 5    16.67%          40                32    20.00%           0                 0         -
+stylus-sdk/src/abi/mod.rs                       4                 0   100.00%           1                 0   100.00%           6                 0   100.00%           0                 0         -
+stylus-sdk/src/call/context.rs                  8                 8     0.00%           8                 8     0.00%          32                32     0.00%           0                 0         -
+stylus-sdk/src/call/error.rs                    7                 7     0.00%           4                 4     0.00%          16                16     0.00%           0                 0         -
+stylus-sdk/src/call/mod.rs                      3                 3     0.00%           3                 3     0.00%          39                39     0.00%           0                 0         -
+stylus-sdk/src/call/raw.rs                     18                18     0.00%          10                10     0.00%          80                80     0.00%           0                 0         -
+stylus-sdk/src/call/transfer.rs                 4                 4     0.00%           1                 1     0.00%           6                 6     0.00%           0                 0         -
+stylus-sdk/src/contract.rs                     11                11     0.00%           5                 5     0.00%          28                28     0.00%           0                 0         -
+stylus-sdk/src/crypto.rs                        1                 1     0.00%           1                 1     0.00%           3                 3     0.00%           0                 0         -
+stylus-sdk/src/deploy/raw.rs                   14                14     0.00%           6                 6     0.00%          56                56     0.00%           0                 0         -
+stylus-sdk/src/evm.rs                          13                13     0.00%           5                 5     0.00%          31                31     0.00%           0                 0         -
+stylus-sdk/src/hostio.rs                       10                10     0.00%           9                 9     0.00%          26                26     0.00%           0                 0         -
+stylus-sdk/src/storage/array.rs                49                49     0.00%          13                13     0.00%          67                67     0.00%           0                 0         -
+stylus-sdk/src/storage/bytes.rs               117               117     0.00%          31                31     0.00%         211               211     0.00%           0                 0         -
+stylus-sdk/src/storage/map.rs                  23                23     0.00%          21                21     0.00%         106               106     0.00%           0                 0         -
+stylus-sdk/src/storage/mod.rs                  87                87     0.00%          78                78     0.00%         275               275     0.00%           0                 0         -
+stylus-sdk/src/storage/traits.rs               33                33     0.00%          17                17     0.00%         101               101     0.00%           0                 0         -
+stylus-sdk/src/storage/vec.rs                  84                84     0.00%          24                24     0.00%         131               131     0.00%           0                 0         -
+stylus-sdk/src/tx.rs                            2                 2     0.00%           2                 2     0.00%           6                 6     0.00%           0                 0         -
+stylus-sdk/src/types.rs                         7                 7     0.00%           5                 5     0.00%          27                27     0.00%           0                 0         -
+stylus-sdk/src/util.rs                          2                 2     0.00%           2                 2     0.00%           6                 6     0.00%           0                 0         -
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                        1192              1167     2.10%         319               312     2.19%        2523              2473     1.98%           0                 0         -
